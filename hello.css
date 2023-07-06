@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
 #h-1{
     color: red;
     background-color: blanchedalmond;
@@ -11,5 +16,74 @@
 }
 *{
     font-family: 'Times New Roman', Times, serif;
+
 }
+.div-outer{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(9, 70, 12);
+    padding: 10px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.div-inner{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+}
+
+.div-outer1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(9, 70, 12);
+    padding: 10px;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-top: -97px;
+    margin-left: 200px;
+    
+}
+
+.div-inner1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+}
+
+
+.test_div{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+.navbar{
+    height: 60px;
+    background-color: black;
+    border: 2px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
